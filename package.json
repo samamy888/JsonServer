@@ -1,0 +1,20 @@
+{
+    "name": "jsonserver",
+    "version": "1.0.0",
+    "description": "JsonServer Demo",
+    "main": "index.js",
+    "scripts": {
+        "serve": "json-server --watch db.json"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/samamy888/JsonServer.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/samamy888/JsonServer/issues"
+    },
+    "homepage": "https://github.com/samamy888/JsonServer#readme"
+}
